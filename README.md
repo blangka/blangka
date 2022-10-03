@@ -4,7 +4,7 @@
 
 ## 💻 Tech Stacks 💻
     
-Techs i've used least one <br/>   
+i've used least one <br/>   
 
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -14,7 +14,7 @@ Techs i've used least one <br/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  
 
 <br/>
-
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blangka&layout=compact)](https://github.com/blangka/github-readme-stats)
 
 <br/>
