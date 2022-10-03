@@ -14,7 +14,6 @@ i've used least one <br/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  
 
 <br/>
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blangka&layout=compact)](https://github.com/blangka/github-readme-stats)
 
 <br/>
