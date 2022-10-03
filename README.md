@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=CHAEHONG LIM)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=CHAEHONG%20LIM)
 
 
 <!--
