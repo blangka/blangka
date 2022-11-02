@@ -15,7 +15,11 @@ i've used least one <br/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  
 
 <br/>
-
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+</div>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blangka&layout=compact)](https://github.com/blangka/github-readme-stats)
